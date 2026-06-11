@@ -1,0 +1,11 @@
+{
+  "name": "crm-basico",
+  "version": "1.0.0",
+  "description": "NexusCRM - Landing page moderna para CRM con e-commerce y social media",
+  "scripts": {
+    "start": "serve . -p ${PORT:-3000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
